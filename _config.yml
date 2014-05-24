@@ -1,8 +1,8 @@
-title: "SITE TITLE"
-tagline: "TAGLINE"
+title: "INSTANT SITE"
+tagline: "by Fabricatorz"
 exclude: [README.md, LICENSE.md]
 
-description: "DESCRIPTION"
+description: "Instant Site by Fabricatorz"
 keywords: ['website', 'camera']
 
 repository: "https://github.com/Fabricatorz/fabricam"
